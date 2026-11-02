@@ -116,3 +116,24 @@ Please distinguish confirmed findings from hypotheses when documenting discoveri
 
 Starlite RE
 Understand the engine. Decode the resources. Explore the possibilities.
+
+⚖️ Copyright & Legal Notice
+
+Starlite RE is an independent, unofficial research and software preservation project. It is not affiliated with, endorsed by, or sponsored by Outfit7.
+
+My Talking Tom 2, the Starlite Engine, and all associated names, trademarks, artwork, characters, audio, models, textures, animations, and other original game assets belong to their respective copyright and intellectual property owners, including Outfit7.
+
+This project:
+
+- Does not claim ownership of Outfit7's software, trademarks, or copyrighted assets.
+- Does not intend to distribute unauthorized copies of the original game or its proprietary resources.
+- Focuses on technical research, software interoperability, format documentation, and independently developed tools.
+- Encourages users to work with legally obtained game files and respect applicable copyright laws and licenses.
+
+Important Disclaimer
+
+Reverse engineering, modification, extraction, and redistribution may be subject to different legal restrictions depending on the jurisdiction, purpose, and material involved.
+
+This notice is not a guarantee that every use of these tools is legally permitted. Users are responsible for ensuring that their activities comply with applicable laws and third-party rights.
+
+All trademarks and copyrighted materials remain the property of their respective owners.
